@@ -1,1 +1,9 @@
+{
+    "spec": 1,
+    "name": "FilFont",
+    "previewText": "Fil's font repo for stuff.",
+    "main": {
+        "ggsans-Bold": "https://github.com/tiziodied/filsfontrepo/raw/main/fonts/FilFont2point0.ttf?raw=1",
 
+    }
+}
